@@ -1,2 +1,4 @@
-# Think_Stats_2
-Implementations of the Think Stats book Edition 2
+ThinkStats2
+===========
+
+Text and supporting code for [Think Stats, 2nd Edition](http://greenteapress.com/thinkstats2/index.html)
